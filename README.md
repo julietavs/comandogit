@@ -22,3 +22,23 @@ trabajoclase
 <td> para crear columnas
 <col> especifica las propiedades de las columnas
 <table> para crear una tabla
+<pre> </pre> Usada para pegar texto manteniendo el pre formato propio del texto.
+<blockquote> </blockquote> Se usan para indicar que el contenido es texto citado.
+<ol> </ol> Etiquetas para crear una lista ordenada
+<ul> </ul> Etiquetas para crear una lista des-ordenada
+<li> </li> Etiquetas que recogen el contenido de un elemento de una lista, sea ordenada o no.
+<dl> </dl> Usada para crear una lista de definiciones.
+<dt> </dt> Representa un término definido por la siguiente etiqueta <dd>
+<dd> </dd> Se usa para definir los términos listados antes que él.
+<figure> </figure> Indica una figura ilustrada como parte del documento HTML5.
+<figcaption> </figcaption> Utilizada para definir la leyenda de una figura.
+<div> </div> Etiqueta común utilizada para crear un contenedor genérico.
+<sub> </sub> y <sup> </sup> Etiquetas utilizadas para representar un subíndice o superíndice.
+<mark> </mark> Usada para resaltar texto
+<span> </span> Etiqueta HTML sin ningún significado específico. Se usa conjuntamente con los atributos «class» o «id» para atribuirl
+
+### 2. consulta 30 estilos Css
+
+
+
+
